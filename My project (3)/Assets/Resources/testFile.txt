@@ -1,0 +1,13 @@
+Aiko "You wanted to talk?" playSong()
+
+Juno "Yes. I really feel grateful for how you treated me. And your rice was really good."
+"I feel as if you're the only nice person around here"
+
+Aiko "You think that? You would be the first person saying such thing."
+
+Juno "Den never said you cook well?"
+
+Aiko "He’s young. He likes being hurtfully honest, but I appreciate his company the most. He was my first friend, however not by choice. I like to name it fate."
+
+narrator "Weird….these give me a familiar feeling. Maybe they just remind me of Aiko."
+
